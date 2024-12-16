@@ -190,12 +190,3 @@ class TagWidget extends StatelessWidget {
     );
   }
 }
-
-// Asset configuration in pubspec.yaml
-// assets:
-//   - assets/images/spark_logo.png
-//   - assets/images/learning.png
-//   - assets/images/engaging.png
-//   - assets/images/success.png
-//
-// Ensure assets are properly placed in the assets/images folder
